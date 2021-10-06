@@ -1,0 +1,1 @@
+origin/branch1のみに反映されるか
