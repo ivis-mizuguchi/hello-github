@@ -1,1 +1,1 @@
-origin/branch1のみに反映されるか
+# origin/branch1のみに反映されるか
