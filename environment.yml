@@ -138,9 +138,9 @@ dependencies:
   - pandas
   - seaborn
   - pixiedust
-  - japanize_matplotlib
   - pip:
       - pandas
       - seaborn
       - pixiedust
+      - japanize_matplotlib
 prefix: /srv/conda/envs/notebook
