@@ -102,7 +102,7 @@ dependencies:
   - pyparsing=2.4.7=pyh9f0ad1d_0
   - pyrsistent=0.17.3=py37h5e8e339_2
   - pysocks=1.7.1=py37h89c1867_3
-  - python=3.7.10=hb7a2778_102_cpython
+  - python=3.5
   - python-dateutil=2.8.2=pyhd8ed1ab_0
   - python-json-logger=2.0.1=pyh9f0ad1d_0
   - python_abi=3.7=2_cp37m
