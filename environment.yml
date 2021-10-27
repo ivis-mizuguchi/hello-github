@@ -138,6 +138,7 @@ dependencies:
   - pandas
   - seaborn
   - pixiedust
+  - japanize_matplotlib
   - pip:
       - pandas
       - seaborn
