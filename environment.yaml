@@ -11,3 +11,5 @@ dependencies:
     - sphinx-gallery
     - pandas
     - matplotlib
+    - pixiedust
+    - seaborn
