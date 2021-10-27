@@ -138,7 +138,6 @@ dependencies:
   - pandas
   - seaborn
   - pixiedust
-  - -c cyclus java-jre
   - pip:
       - pandas
       - seaborn
